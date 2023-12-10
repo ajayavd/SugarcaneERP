@@ -89,9 +89,6 @@ button:hover {
     transform: scale(1.05);
 }
 
-.half {
-    width: 70%;
-}
 
 h2 {
 
@@ -108,10 +105,6 @@ p {
     font-weight: bolder;
     border-radius: 10px;
     background-color: #fff0f5cc;
-}
-
-.otherHalf {
-    width: 27%;
 }
 
 .back-button {
@@ -153,7 +146,6 @@ table {
 
 td:first-child {
     text-align: left;
-    width: 50%;
 }
 
 td:last-child {
