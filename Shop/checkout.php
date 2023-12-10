@@ -24,7 +24,7 @@
 <body>
     <div class="container">
         <div class="half ">
-            <form method='post' action='thankyou.php'>
+            <form method='post' action='OrderConfirm.php'>
                 <h2>Fill the details</h2>
                 <input type="text" id="fullName" name="fullName" placeholder="Full Name" required>
                 <input type="number" id="contact" name="contact" placeholder="Contact" required>
